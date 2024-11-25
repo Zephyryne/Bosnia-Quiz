@@ -1,0 +1,21 @@
+{ "Ba": [
+        { "question": "Guess the canton", "answer": ["Una-Sana", "Una Sana", "Unsko-Sanski", "Unsko Sanski", "Unsko-Sanska", "Unsko Sanska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA01.png"},
+        { "question": "Guess the canton", "answer": ["Posavina", "Posavski", "Posavska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA06.png"},
+        { "question": "Guess the canton", "answer": ["Tuzla", "Tuzlanski", "Tuzlanska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA14.png"},
+        { "question": "Guess the canton", "answer": ["Zenica-Doboj", "Zenica Doboj", "Zeničko-Dobojski", "Zeničko Dobojski", "Zenicko-Dobojski", "Zenicko Dobojski", "Zeničko-Dobojska", "Zeničko Dobojska", "Zenicko-Dobojska", "Zenicko Dobojska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA13.png"},
+        { "question": "Guess the canton", "answer": ["Bosnian Podrinje", "Bosnian-Podrinje", "Podrinje", "Goražde", "Gorazde", "Bosansko-Podrinjski", "Bosansko Podrinjski", "Bosansko-Podrinjska", "Bosansko Podrinjska",], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA18.png"},
+        { "question": "Guess the canton", "answer": ["Central Bosnia", "Srednjobosanski", "Srednjobosanska",], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA17.png"},
+        { "question": "Guess the canton", "answer": ["Herzegovina-Neretva", "Herzegovina Neretva", "Neretva", "Hercegovačko-Neretvanski", "Hercegovačko Neretvanski", "Hercegovacko-Neretvanski", "Hercegovacko Neretvanski", "Neretvanski", "Hercegovačko-Neretvanska", "Hercegovačko Neretvanska", "Hercegovacko-Neretvanska", "Hercegovacko Neretvanska", "Neretvanska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA15.png"},
+        { "question": "Guess the canton", "answer": ["West Herzegovina", "Zapadnohercegovački", "Zapadnohercegovacki", "Zapadnohercegovačka", "Zapadnohercegovacka"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA16.png"},
+        { "question": "Guess the canton", "answer": ["Sarajevo", "Sarajevska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA12.png"},
+        { "question": "Guess the canton", "answer": ["Canton 10", "Livanjski", "Hercegbosanska"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA02.png"},
+        { "question": "Guess the region", "answer": ["Banja Luka", "Banjaluka"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA03.png"},
+        { "question": "Guess the region", "answer": ["Doboj"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA04.png"},
+        { "question": "Guess the region", "answer": ["Bijeljina"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA07.png"},
+        { "question": "Guess the region", "answer": ["Vlasenica"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA08.png"},
+        { "question": "Guess the region", "answer": ["Sarajevo-Romanija", "Sarajevo Romanija"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA20.png"},
+        { "question": "Guess the region", "answer": ["Foča", "Foca"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA21.png"},
+        { "question": "Guess the region", "answer": ["Trebinje"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA11.png"},
+        { "question": "Guess the district", "answer": ["Brčko"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA05.png"},
+    ]
+}

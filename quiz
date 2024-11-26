@@ -16,6 +16,6 @@
         { "question": "Guess the region", "answer": ["Sarajevo-Romanija", "Sarajevo Romanija"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA20.png"},
         { "question": "Guess the region", "answer": ["Foča", "Foca"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA21.png"},
         { "question": "Guess the region", "answer": ["Trebinje"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA11.png"},
-        { "question": "Guess the district", "answer": ["Brčko"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA05.png"},
+        { "question": "Guess the district", "answer": ["Brčko"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Bosnia-Quiz/refs/heads/main/BA05.png"}
     ]
 }
